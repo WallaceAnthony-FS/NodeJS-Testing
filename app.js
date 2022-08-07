@@ -15,10 +15,15 @@ const divide = (num1, num2) => {
     return num1 / num2
 }
 
+const squareRoot = (num) => {
+    return Math.sqrt(num)
+}
+
 
 module.exports = {
     add,
     subtract,
     multiply,
-    divide
+    divide,
+    squareRoot
 }
