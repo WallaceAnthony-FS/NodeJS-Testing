@@ -1,4 +1,4 @@
-const { add, subtract, multiply, divide, squareRoot } = require("../app")
+const { add, subtract, multiply, divide, squareRoot, max } = require("../app")
 
 describe("Math Object", () => {
     
