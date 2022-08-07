@@ -1,4 +1,4 @@
-
+const { add } = require("../app")
 
 describe("Math Object", () => {
     
