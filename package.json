@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-testing",
+  "version": "1.0.0",
+  "description": "Assignment 1.7 for WDV353",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WallaceAnthony-FS/NodeJS-Testing.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Assignment",
+    "Testing"
+  ],
+  "author": "Anthony Wallace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WallaceAnthony-FS/NodeJS-Testing/issues"
+  },
+  "homepage": "https://github.com/WallaceAnthony-FS/NodeJS-Testing#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
