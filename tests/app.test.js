@@ -1,4 +1,4 @@
-const { add } = require("../app")
+const { add, subtract } = require("../app")
 
 describe("Math Object", () => {
     
